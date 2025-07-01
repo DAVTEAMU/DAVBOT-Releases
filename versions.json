@@ -1,0 +1,10 @@
+{
+  "DAVBOT": {
+    "B25_24a": "https://github.com/DAVTEAMU/DAVBOT-Releases/releases/download/beta3/B25_24aWIN.zip",
+    "B25_20a": "https://github.com/DAVTEAMU/DAVBOT-Releases/releases/download/beta2/B25_20a.for.Windows.zip"
+  },
+  "AnotherGame": {
+    "v1.0": "https://example.com/anothergame/v1.0.zip",
+    "v1.1": "https://example.com/anothergame/v1.1.zip"
+  }
+}

@@ -2,6 +2,10 @@
   "DAVBOT": {
     "B25_24a": "https://github.com/DAVTEAMU/DAVBOT-Releases/releases/download/beta3/B25_24aWIN.zip",
     "B25_20a": "https://github.com/DAVTEAMU/DAVBOT-Releases/releases/download/beta2/B25_20a.for.Windows.zip",
-    "B25_16a": "https://github.com/DAVTEAMU/DAVBOT-Releases/releases/download/beta/B25_16aWIN.zip"
+    "B25_16a": "https://github.com/DAVTEAMU/DAVBOT-Releases/releases/download/beta/B25_16aWIN.zip",
+    "0.5.2-pr3.1": "https://github.com/DAVTEAMU/DAVBOT-Releases/releases/download/pre-release/DAVBOT.0.5.2.Pre-Release.3.1.WIN.zip",
+    "0.5.2-pr3": "https://github.com/DAVTEAMU/DAVBOT-Releases/releases/download/pre-release/DAVBOT.0.5.2.Pre-Release.3.WIN.zip",
+    "0.5.2-pr2": "https://github.com/DAVTEAMU/DAVBOT-Releases/releases/download/pre-release/DAVBOT.0.5.2.Pre-Release.2.WIN.zip",
+    "0.5.2-pr1": "https://github.com/DAVTEAMU/DAVBOT-Releases/releases/download/pre-release/DAVBOT.0.5.2.Pre-Release.1.WIN.zip"
   }
 }
